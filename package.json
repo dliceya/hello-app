@@ -15,7 +15,22 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "axios": "^0.16.2",
+    "vuex": "^2.0.0-rc.6",
+    "vue-devtools":"^5.1.4",
+
+    "cnpm": "^5.4.0",
+    "js-base64": "^2.4.3",
+    "js-cookie": "2.2.0",
+    "js-md5": "^0.7.3",
+    "jwt-decode": "^2.2.0",
+
+    "@zxing/library":"0.17.1",
+
+    "mint-ui": "^2.2.13",
+    "@riophae/vue-treeselect":"^0.4.0"
+
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
